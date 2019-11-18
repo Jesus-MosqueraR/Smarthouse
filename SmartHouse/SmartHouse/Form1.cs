@@ -44,6 +44,7 @@ namespace SmartHouse
         private void Form1_FormClosing(object sender, FormClosingEventArgs e)
         {
             //if (arduino.IsOpen) arduino.Close();
+            //yo amo apartado limpio... Gilberto borrero 
         }
 
         private void PicPieza1_Click(object sender, EventArgs e)
